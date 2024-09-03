@@ -1,0 +1,18 @@
+{
+  "PublishedFileId": "1448330897",
+  "ModName": "Moon Elf Race Mod",
+  "Author": "timidvi",
+  "Url": "https://github.com/timidvi/Keplerth-Moon-Elf-Mod",
+  "TargetVersion": "1.0.6",
+  "Description":
+"Race mod that adds:
+
+Moon Elves
+  - Colors: Lavender, Purple
+  - Racial traits: Life by Toil
+    - Gathering speed +50%
+    - +10% drops from mining and trees
+    - 30% hunger decrease
+    - -10% attack speed and move speed
+  - A species of elves discovered on Earth's moon that were forcibly integrated into Earth's society. They have faced significant challenges, hardships, and cruelty and many have been assigned to laborious tasks under harsh supervision."
+}

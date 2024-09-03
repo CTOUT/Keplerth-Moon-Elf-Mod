@@ -1,0 +1,7 @@
+﻿LanguageCode                        ┋		schinese                                                                                                  ┋	english
+Creature1448330898                  ┋		月精灵                                                                                                    ┋	Moon Elf
+Characterisic1448330898             ┋       种族特性: 劳动生活                                                                                        ┋	Racial traits:Life by Toil
+BuffName1448330900                  ┋       劳动生活                                                                                                    ┋   Life by Toil     
+CharacterisicDes1448330898          ┋		+ 采集速度和树木、采矿掉落率增加，饥饿减少 | - 攻击速度和移动速度降低。                                         ┋   + Gathering speed, and drops rates from trees and mining inreased, hunger decrease reduced | - Decreased attack and move speeds.
+BuffDescription1448330900           ┋ 		采集速度 +50%；采矿和树木掉落率 +10%；饥饿减少 30%；攻击速度和移动速度 -10%	                                    ┋	Gathering speed +50%; +10% drops from mining and trees; 30% hunger decrease; -10% attack speed and move speed
+CharacterisicDesInGame1448330898    ┋		一种在地球月球上发现的精灵，被强行融入地球社会。他们面临着巨大的挑战和困难，许多人被分配到在严酷监督下的繁重任务。  ┋	A species of elves discovered on Earth's moon that were forcibly integrated into Earth's society. They have faced significant challenges, hardships, and cruelty and many have been assigned to laborious tasks under harsh supervision.
